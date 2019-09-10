@@ -1,0 +1,14 @@
+{
+    "name": "aaron/demo",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aaron",
+            "email": "1020069668@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
